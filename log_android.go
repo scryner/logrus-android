@@ -9,7 +9,6 @@ package logrus_android
 import "C"
 
 import (
-	"fmt"
 	"unsafe"
 
 	"github.com/Sirupsen/logrus"
