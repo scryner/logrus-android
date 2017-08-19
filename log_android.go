@@ -11,7 +11,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 var allLevels = []logrus.Level{
